@@ -1,0 +1,18 @@
+.admin__menu .level-0.item-core-menu > a:before {
+    background-image: url(../images/dnafactory_icon.png);
+    content: "";
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 32px;
+    margin-bottom: 5px;
+}
+
+.dnafactory-icon-class-menu .admin__page-nav-title:before {
+    content: '';
+    background-image: url(../images/dnafactory_icon.png);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    margin-right: 5px;
+    background-position: center;
+}
