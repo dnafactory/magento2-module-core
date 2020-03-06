@@ -5,8 +5,7 @@
     "license": [
     ],
     "require": {
-        "php": "^7.1|^7.2|^7.3",
-        "magento/framework": "~100.0.4"
+        "php": "^7.1|^7.2|^7.3"
     },
     "authors": [
         {
