@@ -5,7 +5,8 @@
     "license": [
     ],
     "require": {
-        "php": "^7.1|^7.2|^7.3"
+        "php": "^7.1|^7.2|^7.3",
+        "dnafactory/logger": "~1.0"
     },
     "authors": [
         {
