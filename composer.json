@@ -19,9 +19,18 @@
             "name": "Antonio Vitale",
             "email": "antoniovitale@dnafactory.it",
             "role": "Developer"
+        },
+        {
+            "name": "Daniel Russo",
+            "email": "daniel@dnafactory.it",
+            "role": "Developer"
+        },
+        {
+            "name": "Antonio Annunziata",
+            "email": "antonio@dnafactory.it",
+            "role": "Developer"
         }
     ],
-    "minimum-stability": "stable",
     "autoload": {
         "files": [ "registration.php" ],
         "psr-4": {
