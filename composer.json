@@ -1,12 +1,11 @@
 {
     "name": "dnafactory/core",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": [
     ],
     "require": {
-        "php": "^7.1|^7.2|^7.3",
-        "dnafactory/logger": "~1.0"
+        "php": "^7.1|^7.2|^7.3"
     },
     "authors": [
         {
