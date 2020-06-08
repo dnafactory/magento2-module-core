@@ -1,4 +1,4 @@
-.admin__menu .level-0#menu-dnafactory-core-core-menu > a:before {
+#menu-dnafactory-core-core-menu > a:before {
     background-image: url(../images/dnafactory_icon.png);
     content: "";
     background-position: center;
