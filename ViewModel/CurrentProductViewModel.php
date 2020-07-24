@@ -22,4 +22,9 @@ class CurrentProductViewModel implements ArgumentInterface
     {
         return $this->currentProduct->get();
     }
+
+    public function process($x)
+    {
+
+    }
 }
