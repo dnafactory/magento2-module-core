@@ -1,10 +1,12 @@
 {
     "name": "dnafactory/core",
     "type": "magento2-module",
+    "description": "Questo è il modulo Core di DNAFactory, ogni modulo di DNAFactory richiede questo modulo qui",
+    "keywords": ["Magento2"],
     "license": [
     ],
     "require": {
-        "php": "^7.1|^7.2|^7.3"
+        "php": "^7.1|^7.2|^7.3|^7.4"
     },
     "authors": [
         {
